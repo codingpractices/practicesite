@@ -1,4 +1,4 @@
-confirm("do you really want to play this game?"){
+confirm("do you really want to play this game and kill a dragon?"){
   var slaying = true;
   var youHit = Math.floor(Math.random() * 2);
   var damageThisRound = Math.floor(Math.random()*5 + 1);
