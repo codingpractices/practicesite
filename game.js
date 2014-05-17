@@ -23,5 +23,5 @@ confirm("do you really want to play this game and kill a dragon?"){
   }
 }
 else {
-  console.log(Then go away.);
+  console.log("Then go away.");
 }
